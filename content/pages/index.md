@@ -39,7 +39,7 @@ sections:
     type: HeroSection
     actions: []
   - type: CtaSection
-    title: Let's do this
+    title: Let's pick the desired type of analysis
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
