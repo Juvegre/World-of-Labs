@@ -40,9 +40,9 @@ sections:
     actions: []
   - type: CtaSection
     title: Let's pick the desired type of analysis
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Here you should choose your desired type of analysis through a
+      step-by-step process. 
     actions:
       - type: Button
         label: Whole Rock
