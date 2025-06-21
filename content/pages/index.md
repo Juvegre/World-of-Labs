@@ -54,7 +54,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: In-situ
         altText: ''
         url: /
         showIcon: false
