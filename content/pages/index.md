@@ -45,7 +45,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Whole Rock
         altText: ''
         url: /
         showIcon: true
